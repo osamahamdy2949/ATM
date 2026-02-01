@@ -20,34 +20,6 @@ A **C++ console-based ATM system** that simulates a real-world banking environme
 
 ---
 
-## 🖥️ How It Looks
-
-===========================================
-ATM Main Menu Screen
-[1] Quick Withdraw.
-[2] Normal Withdraw.
-[3] Deposit
-[4] Check Balance.
-[5] Logout.
-
-===========================================
-
-
-**Quick Withdraw Menu Example:**
-
-===========================================
-Quick Withdraw
-
-[1] 20      [2] 50
-[3] 100     [4] 200
-[5] 400     [6] 600
-[7] 800     [8] 1000
-[9] Exit
-===========================================
-Your Balance: 1000
-
----
-
 ## 📂 Project Structure
 
 ATM_System/
